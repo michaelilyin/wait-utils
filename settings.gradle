@@ -1,0 +1,3 @@
+rootProject.name = 'wait-utils'
+include 'wait-utils-4j'
+
